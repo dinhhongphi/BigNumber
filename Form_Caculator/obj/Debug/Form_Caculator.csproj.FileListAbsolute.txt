@@ -1,0 +1,9 @@
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\bin\Debug\Form_Caculator.exe.config
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\bin\Debug\Form_Caculator.exe
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\bin\Debug\Form_Caculator.pdb
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.Form1.resources
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.Properties.Resources.resources
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.csproj.GenerateResource.Cache
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.exe
+D:\baitap\visual studio\Form_Caculator\Form_Caculator\obj\Debug\Form_Caculator.pdb
